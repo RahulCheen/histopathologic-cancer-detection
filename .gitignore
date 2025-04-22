@@ -1,2 +1,4 @@
 *.tif
 *.csv
+/runs
+*.pth
